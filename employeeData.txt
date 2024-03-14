@@ -1,0 +1,50 @@
+Employee Datails - Salaries
+*****************************************************
+Name : Izzah binti Burhan
+Annual Salary : 52500.0
+Years Service : 2
+Employee Datails - Salaries
+*****************************************************
+Name : Alisya binti Ramly
+Annual Salary : 63000.0
+Years Service : 5
+Employee Datails - Salaries
+*****************************************************
+Name : Kasturi Rajah
+Annual Salary : 73500.0
+Years Service : 3
+Employee Datails - Salaries
+*****************************************************
+Name : Lishan Vellan
+Annual Salary : 57750.0
+Years Service : 1
+Employee Datails - Salaries
+*****************************************************
+Name : Lau Jun Hang
+Annual Salary : 68250.0
+Years Service : 4
+Employee Datails - Salaries
+*****************************************************
+Name : Daniel bin Kamal
+Annual Salary : 78750.0
+Years Service : 6
+Employee Datails - Salaries
+*****************************************************
+Name : Syafiq Ilman
+Annual Salary : 47250.0
+Years Service : 2
+Employee Datails - Salaries
+*****************************************************
+Name : Tang Jo Lin
+Annual Salary : 60900.0
+Years Service : 3
+Employee Datails - Salaries
+*****************************************************
+Name : Danish bin Hassan
+Annual Salary : 65100.0
+Years Service : 4
+Employee Datails - Salaries
+*****************************************************
+Name : Izzat bin Ismail
+Annual Salary : 71400.0
+Years Service : 5
