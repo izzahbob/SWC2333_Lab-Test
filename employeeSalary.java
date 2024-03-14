@@ -1,4 +1,3 @@
-
 /**
  * Description : make a list of emplory salaries for top performing and least service.
  *
@@ -24,7 +23,7 @@ public class employeeSalary
         {
             //input file
             BufferedReader inputFile = new BufferedReader (new FileReader("employeeSalaries.txt"));
-            //2 outputs file
+            //3 outputs file
             PrintWriter topPerform = new PrintWriter (new FileWriter ("topPerformingEmployee.txt"));
             PrintWriter leastService = new PrintWriter (new FileWriter ("leastServiceEmployee.txt"));
             PrintWriter empData = new PrintWriter (new FileWriter ("employeeData.txt"));
@@ -96,4 +95,3 @@ public class employeeSalary
     
     }//end of main class
 }//end of driver class
-
